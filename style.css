@@ -96,6 +96,7 @@ body{
     text-decoration: line-through;
     color: gray;
     margin-left: 1.1em;
+    vertical-align: 1rem;
 }
 
 .product-cart{
@@ -133,4 +134,5 @@ body{
     .product-body {
         margin: 1em 1.25em;
     }
+
 }
